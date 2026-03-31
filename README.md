@@ -38,7 +38,7 @@ This project demonstrates key Object-Oriented Programming concepts such as class
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/parth06-tech/Appointment-Scheduling-System-Java/tree/main
+git clone https://github.com/parth06-tech/Appointment-Scheduling-System-Java
 cd AppointmentSystem/src
 
 
